@@ -1,0 +1,15 @@
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.csproj.AssemblyReference.cache
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.GeneratedMSBuildEditorConfig.editorconfig
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.AssemblyInfoInputs.cache
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.AssemblyInfo.cs
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.csproj.CoreCompileInputs.cache
+D:\aducation\august-september\С#\08,10,23 hw\task49\bin\Debug\net7.0\task49.exe
+D:\aducation\august-september\С#\08,10,23 hw\task49\bin\Debug\net7.0\task49.deps.json
+D:\aducation\august-september\С#\08,10,23 hw\task49\bin\Debug\net7.0\task49.runtimeconfig.json
+D:\aducation\august-september\С#\08,10,23 hw\task49\bin\Debug\net7.0\task49.dll
+D:\aducation\august-september\С#\08,10,23 hw\task49\bin\Debug\net7.0\task49.pdb
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.dll
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\refint\task49.dll
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.pdb
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\task49.genruntimeconfig.cache
+D:\aducation\august-september\С#\08,10,23 hw\task49\obj\Debug\net7.0\ref\task49.dll
