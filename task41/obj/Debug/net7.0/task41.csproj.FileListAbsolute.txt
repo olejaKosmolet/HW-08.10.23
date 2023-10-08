@@ -1,0 +1,15 @@
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.csproj.AssemblyReference.cache
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.AssemblyInfoInputs.cache
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.AssemblyInfo.cs
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.csproj.CoreCompileInputs.cache
+D:\aducation\august-september\С#\08,10,23 hw\task41\bin\Debug\net7.0\task41.exe
+D:\aducation\august-september\С#\08,10,23 hw\task41\bin\Debug\net7.0\task41.deps.json
+D:\aducation\august-september\С#\08,10,23 hw\task41\bin\Debug\net7.0\task41.runtimeconfig.json
+D:\aducation\august-september\С#\08,10,23 hw\task41\bin\Debug\net7.0\task41.dll
+D:\aducation\august-september\С#\08,10,23 hw\task41\bin\Debug\net7.0\task41.pdb
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.dll
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\refint\task41.dll
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.pdb
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\task41.genruntimeconfig.cache
+D:\aducation\august-september\С#\08,10,23 hw\task41\obj\Debug\net7.0\ref\task41.dll
